@@ -1,5 +1,5 @@
 body {
-  background-color: #0e4c8b; /* Une couleur de fond claire */
+  background-color: #08325b; /* Une couleur de fond claire */
   color: #343a40; /* Couleur du texte sombre */
   body {
     font-family: "Muli", sans-serif;
@@ -12,22 +12,22 @@ body {
 h1 {
   text-align: center;
   margin: 20px 0;
-  color: #0e4c8b; /* Couleur pour le titre */
+  color: #bac0c4; /* Couleur pour le titre */
 }
 
 h2 {
   text-align: center;
   margin: 20px 0;
-  color: #0e4c8b; /* Couleur pour le sous-titre */
+  color: #bac0c4; /* Couleur pour le sous-titre */
 }
 
 h3 {
   margin: 20px 0;
-  color: #0e4c8b; /* Couleur pour les sous-titres */
+  color: #bac0c4; /* Couleur pour les sous-titres */
 }
 
 p {
-  color: #0e4c8b; /* Couleur du texte */
+  color: #bac0c4; /* Couleur du texte */
 }
 
 nav {
@@ -76,3 +76,5 @@ button {
 button:hover {
   background-color: #218838; /* Couleur au survol */
 }
+
+

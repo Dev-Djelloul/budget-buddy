@@ -43,7 +43,7 @@ function Statistics() {
       
       <div className="row">
         <div className="col-md-6">
-          <h3>Your transactions</h3>
+          <h3>Your Transactions</h3>
           <table className="table table-striped table-hover">
             <thead>
               <tr>

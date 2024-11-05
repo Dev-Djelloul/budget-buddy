@@ -58,7 +58,7 @@ function Transactions() {
         <button type="submit" className="btn btn-success mt-2">Add transaction</button>
       </form>
 
-      <h2>Transactions</h2>
+      <h2>Your Transactions</h2>
       <table className="table table-striped table-hover">
         <thead>
           <tr>

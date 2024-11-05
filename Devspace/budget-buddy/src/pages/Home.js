@@ -4,12 +4,13 @@ function Home() {
   return (
     <div className="container mt-4">
       <h2>Welcome</h2>
-      <p>"Budget Buddy helps you visualize your income and expenses, allowing you to plan your finances smartly and confidently."</p>
-      <p>
-        <strong>Start now !</strong>
-      </p>
+      <h3>"Budget Buddy helps you visualize your income and expenses, allowing you to plan your finances smartly and confidently."</h3>
+      <h4>
+        <strong>Let's start now !</strong>
+      </h4>
     </div>
   );
 }
 
 export default Home;
+
