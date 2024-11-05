@@ -77,4 +77,13 @@ button:hover {
   background-color: #218838; /* Couleur au survol */
 }
 
+.container-background {
+  background-image: url('/public/blue-1761175.jpg');
+  background-size: cover;
+  background-position: center;
+  background-color: #2772a3; /* Couleur de secours */
+  height: 100vh;
+}
+
+
 

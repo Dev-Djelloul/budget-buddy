@@ -10,14 +10,7 @@ function App() {
   return (
     <Router>
       <div
-        className="container text-center mt-4 p-4 rounded"
-        style={{
-          backgroundImage: "url(/blue-1761175.jpg)", // Chemin vers l'image dans le dossier public
-          backgroundSize: "cover", // ou 'contain' selon vos préférences
-          backgroundPosition: "center",
-          backgroundColor: "#bdc1c4", // Couleur de fond de secours
-          height: "100vh", // Vous pouvez ajuster la hauteur selon vos besoins
-        }}
+        className="container text-center mt-4 p-4 rounded container-background"
       >
         <h1>💰 Budget Buddy 💰</h1>
         <nav>
